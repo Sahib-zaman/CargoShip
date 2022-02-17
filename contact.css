@@ -1,0 +1,12 @@
+.form{
+     display: flex;
+     justify-content: space-between;
+     margin-top: 40px;
+      align-items: center;
+      padding: 10px;
+}
+.seconds{
+    box-shadow: 4px 3px 18px 5px grey;
+    padding: 40px;
+    margin: 10px;
+}

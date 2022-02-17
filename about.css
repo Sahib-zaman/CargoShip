@@ -1,0 +1,36 @@
+#h1{
+    color: #474444;
+    font-weight: bold;
+    font-family: sans-serif;
+
+}
+#h5{
+    color: gray;
+    font-weight: bold;
+    font-family: sans-serif;   
+}
+.about{
+margin: 30px 13px 10px 30px;
+}
+#kbd{
+ background-image: none;   
+ margin-top: 0px;
+
+}
+#bottom{
+    color: #272727;
+    font-weight: bolder;
+    margin: 10px 0px;
+}
+.idp{line-height: 20px;
+    font-size: 16px;
+    color: gray;
+    font-family: sans-serif;
+}
+#top{
+    color: #4f4f4f;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin: 18px 0px;
+
+} 

@@ -1,0 +1,38 @@
+ .news{
+    margin: 30px 13px 10px 30px;
+}
+#left{
+    width: 65%;
+ }
+#right{
+    width:20%;
+     padding: 0px 0px 0px 18px;
+
+
+}
+#recent{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: revert;
+    color: rgb(75, 74, 74);
+} 
+.atag{
+    margin-top: 20px;
+}
+.atag a{
+    line-height: 25px;
+    list-style: circle;
+    font-size: 14px;
+    
+}
+a{
+    /* font-size: 14px; */
+}
+.atag a:hover{
+     text-decoration: underline;
+    
+}
+li{
+    color: gray;
+}
